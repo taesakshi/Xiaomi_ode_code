@@ -1,0 +1,48 @@
+/* custom.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  
+  .header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .query-list {
+    margin-top: 16px;
+  }
+  
+  .query {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .question {
+    font-weight: bold;
+  }
+  
+  .response-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .response-form button {
+    background-color: #0077b6;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 8px;
+    cursor: pointer;
+  }
+  
+  .response-form button:hover {
+    background-color: #005f9a;
+  }
+  
